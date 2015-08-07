@@ -1,2 +1,2 @@
 # YAPE-Regex-Explain
-объяснение регулярных выражений
+explanation of regular expressions
